@@ -1,2 +1,3 @@
 # SNAP-Class
-Attendance base system with facial and voice regonition
+Attendance base system with facial and voice recognition
+Author - Rishi Hedau
